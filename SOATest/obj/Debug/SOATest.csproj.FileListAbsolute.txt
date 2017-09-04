@@ -1,0 +1,9 @@
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\ApplicationInsights.config
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\SOATest.dll.config
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\SOATest.dll
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\SOATest.pdb
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\ServicioSOA.dll
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\bin\Debug\ServicioSOA.pdb
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\obj\Debug\SOATest.csprojResolveAssemblyReference.cache
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\obj\Debug\SOATest.dll
+c:\users\williams\documents\visual studio 2015\Projects\Servicios\SOATest\obj\Debug\SOATest.pdb
